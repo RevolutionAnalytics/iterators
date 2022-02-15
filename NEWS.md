@@ -1,3 +1,7 @@
+## 1.0.14
+
+- Maintainer change (Folashade Daniel; fdaniel@microsoft.com).
+
 ## 1.0.13
 
 - Maintainer change (Michelle Wallig; Michelle.Wallig@microsoft.com).
